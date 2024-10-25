@@ -5,4 +5,5 @@ pandas
 numpy
 scikit-learn
 nltk
-spacy
+spacy==3.2.4  # Versão mais estável e compatível com Streamlit
+thinc==8.0.15
