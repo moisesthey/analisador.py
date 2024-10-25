@@ -1,9 +1,4 @@
 streamlit
-pymupdf
-python-docx
 pandas
-numpy
 scikit-learn
-nltk
-spacy==3.2.4
-thinc==8.0.15
+spacy
